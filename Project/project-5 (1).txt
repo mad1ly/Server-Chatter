@@ -1,0 +1,12 @@
+Please write a chats server. Use  sockets and threads or asynchronous
+functions.
+Specific functionality of the program is up to you, but it is recommended at
+least it had:
+ - creating a group of users,
+ - adding/removing of an account to the group,
+ - sending the message to a specific user,
+ - sending the message to a group of users,
+ - ...
+It is recommended to work in groups of c.a. three persons, but other teams are
+acceptable, as well.
+
