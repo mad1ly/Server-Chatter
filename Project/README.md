@@ -21,9 +21,3 @@ Creating a group of users, any user can join this group if provided with "Client
 Sending the messages to all users.
 
 Not tested on multiple devices! 
-
-**Group**
-
-I work alone, so i hope that provided functionality is enough to get at least satisfactory mark, hope for an understanding.
-
-Madi Aliyev 51980
